@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 
 # Major Repository
 
-## binanceTrade: Open on request
+## binanceTrade(Open on request)
