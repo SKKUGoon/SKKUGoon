@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Major Repository
 
-### binanceTrade
+## binanceTrade
 
 <p>
   People tend to look down on cryptos. However, they have potentials to be one of the greatest trading asset poor people can buy. With little to no margin, you can enable future trading in crypto markets.
@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 
 </p>
 
-### goBinance
+## goBinance
 
 <p>
   Python is one of the greatest language in 21st century, but because it's an interpreter, it's destined to be slow. goBinance repository will try to rewrite all the things in Go(language) using Go's super fast speed comparable to that of C and C++.
