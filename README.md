@@ -39,3 +39,7 @@ You can click the Preview link to take a look at your changes.
 <p>
   Python is one of the greatest language in 21st century, but because it's an interpreter, it's destined to be slow. goBinance repository will try to rewrite all the things in Go(language) using Go's super fast speed comparable to that of C and C++.
 </p>
+
+<p>
+  As of 2022.03.23 goBinance Project will be split into 2. Backend module will be separated from the rest.
+</p>
