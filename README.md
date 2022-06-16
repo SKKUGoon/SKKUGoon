@@ -1,8 +1,17 @@
-- 👋 Hi, I’m @SKKUGoon. I also own the repository for my professional work; @quantwoori
-- 👀 I’m interested in crypto currency trading using event driven strategies and volume & volatility analysis.
-- ✨ I can code in Python 3 and Go
-- 🌱 I’m currently learning Rustlang
-- 📫 How to reach me: baesangil0906@gmail.com
+- 👋 Hi, I’m @SKKUGoon. 
+  - Github account containing previous works; @quantwoori
+  - Github account containing current works; @goonzardwork
+- 👀 I’m interested in 
+  - crypto currency trading using event driven strategies and volume & volatility analysis.
+  - making crypto currency itself
+  - designing back-end to front-end webapp.
+  - Hosting APIs 
+  - Making discord or telegram chat bots.
+- ✨ Tech Stacks I use for developing: Python 3, Go
+  - 🌱 I’m currently learning Rustlang, Next.js
+- 📫 How to reach me: 
+  - private: baesangil0906@gmail.com 
+  - work: goonzardwork@gmail.com / goonzard@igisam.com
 
 <!---
 SKKUGoon/SKKUGoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
