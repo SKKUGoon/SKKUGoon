@@ -45,6 +45,12 @@ Structure
 
 </p>
 
+## goHFT
+<p>
+  Project that aims to develop index for high frequency trade. - 
+  Involve using high frequency data obtained from websocket
+</p>
+
 # Project OWLERY
 
 <p>
