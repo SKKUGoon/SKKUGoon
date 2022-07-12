@@ -72,7 +72,14 @@ Structure
   goKorMktEvent gets real-time Korean stock market information gathered from DART RSS feed. Also, this is the first project that I've start using LICENSE file and LICENSE badge in order to put it in a larger side-project called owlery.
 </p>
 
-## OWL 2. goCoinInfo - CryOWL
+## OWL 2. goCoinInfo - CryOWL - Substitute + add with goHFT
+
+<p>
+  (
+    did my work finally caught up with me? yes ; 
+    did it resulted in less-progress in my personal repository? yes
+  )
+</p>
 
 ## OWLERY. goServer
 
