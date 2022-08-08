@@ -62,6 +62,8 @@ Structure
 
 ## 3. Project Griffin. 
 
+<img src="https://user-images.githubusercontent.com/54009920/183289711-bf7c3303-0cf6-48ee-a270-d777d8d1bc45.svg" alt="icon" width="250"/>
+
 <p>
 
 Store some of the information inside Web 2.0 based centralized database. Griffin Pay will use Polygon chain
