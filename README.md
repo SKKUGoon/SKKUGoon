@@ -48,9 +48,9 @@ Structure
   
 </p>
 
-# Project OWLERY
-## OWL 1. goKorMktEvent - KOWL
-## OWL 2. goCoinInfo - CryOWL - Substitute + add with goHFT
+## Project OWLERY
+### OWL 1. goKorMktEvent - KOWL
+### OWL 2. goCoinInfo - CryOWL - Substitute + add with goHFT
 
 <p>
   (
@@ -60,3 +60,13 @@ Structure
 </p>
 
 
+## Project Griffin
+
+<p>
+
+Store some of the information inside Web 2.0 based centralized database. Griffin Pay will use Polygon chain
+
+</p>
+
+### GriffinBackend - Serves API for Griffin Frontend
+### Griffin.app - Griffin Frontend
