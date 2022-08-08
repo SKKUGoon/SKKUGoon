@@ -18,9 +18,9 @@ SKKUGoon/SKKUGoon is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-## Major Repository
+# Major Repository
 
-## binanceTrade
+## 1. binanceTrade
 
 <p>
 
@@ -48,7 +48,7 @@ Structure
   
 </p>
 
-## Project OWLERY
+## 2. Project OWLERY
 ### OWL 1. goKorMktEvent - KOWL
 ### OWL 2. goCoinInfo - CryOWL - Substitute + add with goHFT
 
@@ -60,7 +60,7 @@ Structure
 </p>
 
 
-## Project Griffin
+## 3. Project Griffin
 
 <p>
 
