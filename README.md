@@ -20,13 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 # Major Repository
 
-## 1. binanceTrade 🏛
-
-<p>
-
-People tend to look down on cryptos. However, they have potentials to be one of the greatest trading asset poor people can buy. With little to no margin, you can enable future trading in crypto markets.
-
-</p>
+## 1. binanceTrade(Quantitative) 🏛
 
 <p> 
 
@@ -35,10 +29,7 @@ Using python websocket backend server, binanceTrade repository aims to create a 
   1. Exchange - Arbitrage
   2. Future, Delivery Long Short Spread trade
   3. Exchange premium trade (so called kimchi premium)
-  
-</p>
 
-<p>
 Structure
   
   1. Websocket server runs 24/7 except for server maintenance period
@@ -49,8 +40,8 @@ Structure
 </p>
 
 ## 2. Project OWLERY. 🦉
-### OWL 1. goKorMktEvent - KOWL
-### OWL 2. goCoinInfo - CryOWL - Substitute + add with goHFT
+### OWL 1) goKorMktEvent - KOWL
+### OWL 2) goCoinInfo - CryOWL - Substitute + add with goHFT
 
 <p>
   (
@@ -70,5 +61,5 @@ Store some of the information inside Web 2.0 based centralized database. Griffin
 
 </p>
 
-### GriffinBackend - Serves API for Griffin Frontend
-### Griffin.app - Griffin Frontend
+### 1) GriffinBackend - Serves API for Griffin Frontend
+### 2) Griffin.app - Griffin Frontend
