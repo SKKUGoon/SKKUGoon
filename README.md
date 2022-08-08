@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 # Major Repository
 
-## 1. binanceTrade
+## 1. binanceTrade 🏛
 
 <p>
 
@@ -48,7 +48,7 @@ Structure
   
 </p>
 
-## 2. Project OWLERY
+## 2. Project OWLERY. 🦉
 ### OWL 1. goKorMktEvent - KOWL
 ### OWL 2. goCoinInfo - CryOWL - Substitute + add with goHFT
 
@@ -60,7 +60,7 @@ Structure
 </p>
 
 
-## 3. Project Griffin
+## 3. Project Griffin. 
 
 <p>
 
