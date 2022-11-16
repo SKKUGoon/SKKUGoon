@@ -33,7 +33,7 @@ Using python websocket backend server, binanceTrade repository aims to create a 
 Repository
 
 - ... (python signal generator, orderer)
-- ... (golang backend server, telegram bot manager, database manager)
+- cex-arb-back(private - email me) (golang backend server, telegram bot manager, database manager)
 
 <p>
 
