@@ -18,9 +18,14 @@ SKKUGoon/SKKUGoon is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-# Major Repository
+# Major Projects
 
-## 1. binanceTrade(Quantitative) 🏛
+## 1. CryptoTrade(Quantitative) 🏛
+
+### A. Local future Arbitrage (deprecated)
+
+Repository
+- BinanceTrade
 
 <p> 
 
@@ -28,7 +33,6 @@ Using python websocket backend server, binanceTrade repository aims to create a 
   
   1. Exchange - Arbitrage
   2. Future, Delivery Long Short Spread trade
-  3. Exchange premium trade (so called kimchi premium)
 
 Structure
   
@@ -39,27 +43,31 @@ Structure
   
 </p>
 
-## 2. Project OWLERY. 🦉
-### OWL 1) goKorMktEvent - KOWL
-### OWL 2) goCoinInfo - CryOWL - Substitute + add with goHFT
+### B. Inter-exchange Arbitrage (on going)
+
+Repository
+- ... (python signal generator, orderer)
+- ... (golang backend server, telegram bot manager, database manager)
 
 <p>
-  (
-    did my work finally caught up with me? yes ; 
-    did it resulted in less-progress in my personal repository? yes
-  )
+
+Using golang backend server, create autonomous crypto trader. Using this strategy. Although there are only one strategy, but can also expand strategy - since backend server is designed minding the scalability.
+  
+    1. Exchange premium trade (so called kimchi premium)
+  
 </p>
 
 
-## 3. Project Griffin. 
+## 2. Project Griffin. 
 
 <img src="https://user-images.githubusercontent.com/54009920/183289711-bf7c3303-0cf6-48ee-a270-d777d8d1bc45.svg" alt="icon" width="250"/>
 
 <p>
 
-Store some of the information inside Web 2.0 based centralized database. Griffin Pay will use Polygon chain
+Store some of the information inside Web 2.0 based centralized database. Griffin Pay will use Polygon nightfall chain to support completely private transaction information. Currently in Griffin organiztion. 
 
 </p>
 
-### 1) GriffinBackend - Serves API for Griffin Frontend
-### 2) Griffin.app - Griffin Frontend
+- 1) GriffinBackend - Serves API for Griffin Frontend
+- 2) GriffinBackendv2 - Serves API for Griffin Frontend. But now, supports swaggo api docs, and relational database(mysql) support. 
+- 3) Griffin.app - Griffin Frontend
