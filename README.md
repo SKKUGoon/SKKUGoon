@@ -25,7 +25,8 @@ You can click the Preview link to take a look at your changes.
 ### A. Local future Arbitrage (deprecated)
 
 Repository
-- BinanceTrade
+
+- [BinanceTrade](https://github.com/SKKUGoon/binanceTrade)
 
 <p> 
 
@@ -43,9 +44,10 @@ Structure
   
 </p>
 
-### B. Inter-exchange Arbitrage (on going)
+### B. Inter-exchange Arbitrage (on going project)
 
 Repository
+
 - ... (python signal generator, orderer)
 - ... (golang backend server, telegram bot manager, database manager)
 
@@ -67,7 +69,21 @@ Using golang backend server, create autonomous crypto trader. Using this strateg
 Store some of the information inside Web 2.0 based centralized database. Griffin Pay will use Polygon nightfall chain to support completely private transaction information. Currently in Griffin organiztion. 
 
 </p>
+My contribution
 
-- 1) GriffinBackend - Serves API for Griffin Frontend
-- 2) GriffinBackendv2 - Serves API for Griffin Frontend. But now, supports swaggo api docs, and relational database(mysql) support. 
-- 3) Griffin.app - Griffin Frontend
+- [griffin-backend](https://github.com/griffin-cryptopayroll/griffin-backend) - Serves API for Griffin Frontend. Now deprecated.
+- [griffin-backendv2](https://github.com/griffin-cryptopayroll/griffin-backendv2) - Serves API for Griffin Frontend. But now, supports swaggo api docs, and relational database(mysql) support. 
+
+
+## 3. Domestic Stock Market(Quantitative, Event Based)
+
+Repository
+
+- [kor-strat-event](https://github.com/SKKUGoon/kor-strat-event)
+
+
+<p>
+
+After working on project 1.B, I'll be working on trading in korean stock markets. 
+  
+</p>
