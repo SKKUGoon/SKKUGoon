@@ -87,3 +87,6 @@ Repository
 After working on project 1.B, I'll be working on trading in korean stock markets. 
   
 </p>
+
+
+<img src+https://activity-graph.herokuapp.com/graph?username=skkugoon&theme=react-dark&bg_color=20232a&hide_border=true&line=00CD6C&color=00CD6C" width=98%/>
