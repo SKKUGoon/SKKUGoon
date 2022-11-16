@@ -3,20 +3,11 @@
   - Github account containing current works; @goonzardwork
 - 👀 I’m interested in 
   - crypto currency trading using event driven strategies and volume & volatility analysis.
-  - making crypto currency itself
-  - designing back-end to front-end webapp.
-  - Hosting APIs 
-  - Making discord or telegram chat bots.
-- ✨ Tech Stacks I use for developing: Python 3, Go
-  - 🌱 I’m currently learning Rustlang, Next.js
+  - designing back-end, and serving APIs, and attach discord or telegram bots.
+- ✨ Tech Stacks I use for developing: Python 3, Go, Rust
 - 📫 How to reach me: 
   - private: baesangil0906@gmail.com 
   - work: goonzardwork@gmail.com / goonzard@igisam.com
-
-<!---
-SKKUGoon/SKKUGoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 # Major Projects
 
@@ -34,13 +25,6 @@ Using python websocket backend server, binanceTrade repository aims to create a 
   
   1. Exchange - Arbitrage
   2. Future, Delivery Long Short Spread trade
-
-Structure
-  
-  1. Websocket server runs 24/7 except for server maintenance period
-  2. Clients are connected to websocket servers.
-    A. If Clients communicate via websocket transmission
-  3. Strategies are added to middle office clients.
   
 </p>
 
@@ -64,16 +48,16 @@ Using golang backend server, create autonomous crypto trader. Using this strateg
 
 <img src="https://user-images.githubusercontent.com/54009920/183289711-bf7c3303-0cf6-48ee-a270-d777d8d1bc45.svg" alt="icon" width="250"/>
 
+Repository 
+
+- [griffin-backend](https://github.com/griffin-cryptopayroll/griffin-backend) - Serves API for Griffin Frontend. Now deprecated.
+- [griffin-backendv2](https://github.com/griffin-cryptopayroll/griffin-backendv2) - Serves API for Griffin Frontend. But now, supports swaggo api docs, and relational database(mysql) support. 
+
 <p>
 
 Store some of the information inside Web 2.0 based centralized database. Griffin Pay will use Polygon nightfall chain to support completely private transaction information. Currently in Griffin organiztion. 
 
 </p>
-My contribution
-
-- [griffin-backend](https://github.com/griffin-cryptopayroll/griffin-backend) - Serves API for Griffin Frontend. Now deprecated.
-- [griffin-backendv2](https://github.com/griffin-cryptopayroll/griffin-backendv2) - Serves API for Griffin Frontend. But now, supports swaggo api docs, and relational database(mysql) support. 
-
 
 ## 3. Domestic Stock Market(Quantitative, Event Based)
 
