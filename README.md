@@ -32,8 +32,11 @@ Using python websocket backend server, binanceTrade repository aims to create a 
 
 Repository
 
-- ... (python signal generator, orderer)
+- cex-arb-py (python signal generator, orderer)
 - cex-arb-back(private - email me) (golang backend server, telegram bot manager, database manager)
+
+Changes as of 2022/11/30
+- cex-arb-back code has been integrated into cex-arb(previous repository name cex-arb-py). It's also private repository - email me to get full detail.
 
 <p>
 
