@@ -9,6 +9,8 @@
   - private: baesangil0906@gmail.com 
   - work: goonzardwork@gmail.com / goonzard@igisam.com
 
+<a href="https://gitroll.io/profile/usp3qR4oqK7ONnVvtVIFc46XcR1J2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/usp3qR4oqK7ONnVvtVIFc46XcR1J2" alt="GitRoll Profile Badge"/></a>
+
 # Major Projects
 
 ## 1. CryptoTrade(Quantitative) 🏛
