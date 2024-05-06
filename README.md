@@ -4,7 +4,9 @@
 - 👀 I’m interested in 
   - crypto currency trading using event driven strategies and volume & volatility analysis.
   - designing back-end, and serving APIs, and attach discord or telegram bots.
-- ✨ Tech Stacks I use for developing: Python 3, Go, Rust
+  - artificial intelligence - LLMs. Single or Multishot RAGs.
+  - data base scheme management
+- ✨ Tech Stacks I use for developing: Python 3, Go, Rust, Typescript (on SvelteKit)
 - 📫 How to reach me: 
   - private: baesangil0906@gmail.com 
   - work: goonzardwork@gmail.com / goonzard@igisam.com
@@ -69,13 +71,6 @@ Store some of the information inside Web 2.0 based centralized database. Griffin
 Repository
 
 - [kor-strat-event](https://github.com/SKKUGoon/kor-strat-event)
-
-
-<p>
-
-After working on project 1.B, I'll be working on trading in korean stock markets. 
-  
-</p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img src="https://activity-graph.herokuapp.com/graph?username=skkugoon&theme=react-dark&bg_color=20232a&hide_border=true&line=00CD6C&color=00CD6C" width=98%/>
