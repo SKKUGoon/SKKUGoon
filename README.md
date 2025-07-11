@@ -2,9 +2,11 @@
   - Github account containing previous works; @quantwoori
   - Github account containing current works; @goonzardwork
 - 👀 I’m interested in
-  - Data analysis and Machine learning algorithm
-  - Making data science project that makes direct impact on business
-  - artificial intelligence - LLMs. Single or Multishot RAGs.
+  - Data analysis
+  - Crypto currency arbitrage and market making
+    - `cryptoquant5` repository is private. Email me for details
+  - Data science project that makes direct impact on business
+  - Artificial intelligence
 - 📫 How to reach me: 
   - private: baesangil0906@gmail.com 
   - work: goonzardwork@gmail.com
