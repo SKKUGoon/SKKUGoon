@@ -1,12 +1,14 @@
 - 👋 Hi, I’m @SKKUGoon. 
-  - Github account containing previous works; @quantwoori
-  - Github account containing current works; @goonzardwork
+
 - 👀 I’m interested in
-  - Data analysis
-  - Crypto currency arbitrage and market making
-    - `cryptoquant5` repository is private. Email me for details
-  - Data science project that makes direct impact on business
-  - Artificial intelligence
+  - Data
+    - Data science project that makes direct impact on business
+    - Artificial intelligence
+  - Finance
+    - Crypto currency arbitrage and market making
+      - `cryptoquant5` repository for CEXs.
+      - `cryptoquant6` repository for DEXs.
+  
 - 📫 How to reach me: 
   - private: baesangil0906@gmail.com 
   - work: goonzardwork@gmail.com
