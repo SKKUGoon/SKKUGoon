@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SKKUGoon. 
 - 👀 I’m interested in
-  - Data Science
-  - Finance
+  - Finance / Quant / Data Science
 - 📫 How to reach me: 
   - work: goonzardwork@gmail.com
